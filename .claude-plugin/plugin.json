@@ -1,0 +1,13 @@
+{
+  "name": "occl-claude-plugin",
+  "version": "1.0.0",
+  "description": "Personal Claude Code extensions — skills, sub-agents, commands, hooks, and scripts.",
+  "author": {
+    "name": "octavioccl",
+    "url": "https://github.com/octavioccl"
+  },
+  "homepage": "https://github.com/octavioccl/occl-claude-plugin",
+  "repository": "https://github.com/octavioccl/occl-claude-plugin",
+  "license": "MIT",
+  "keywords": ["agents", "skills", "statusline", "investiq"]
+}
